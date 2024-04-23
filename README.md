@@ -95,12 +95,52 @@ In essence, our innovative cooling apparatus epitomizes a paradigm shift in cool
 
 Crafting an efficient solvent cooler demands meticulous attention to design intricacies, ensuring optimal performance and maximal efficiency. Building upon our previous insights, the selection of appropriate geometries for both the inner and outer structures of the apparatus emerges as a pivotal determinant in achieving superior cooling capabilities.
 
+At the core of our solvent cooler lies the inner container, meticulously fashioned in the form of a cylinder. This choice is driven by its inherent structural integrity and uniformity, facilitating seamless rotation within the cooling system. The cylindrical shape not only lends itself to efficient utilization of space but also promotes consistent cooling throughout the solvent volume, mitigating thermal gradients and ensuring homogeneous temperature distribution. Moreover, the cylindrical configuration minimizes resistance to rotation, thereby enhancing operational smoothness and minimizing energy losses.
 
+Surrounding the inner cylinder, the outer container assumes the shape of a parabolic structure, meticulously tailored to maximize the efficacy of the cooling process. The parabolic geometry is strategically chosen for its ability to focus the cooling medium—ice-cold water—towards the inner cylinder, optimizing heat exchange efficiency. By harnessing the reflective properties inherent to the parabolic shape, incident cooling energy is concentrated towards the center, intensifying the cooling effect on the solvent contained within the inner cylinder. This targeted approach not only enhances cooling efficiency but also minimizes energy wastage by directing cooling resources precisely where they are needed most(A.I. Rusanov,Thermodynamics of solid surfaces,Surface Science Reports,Volume 23, Issues 6–8,1996,Pg. 173-247).
 
+Furthermore, the parabolic outer structure exhibits superior stability and structural robustness, ensuring longevity and reliability in operation. Its streamlined form minimizes air resistance, facilitating smooth rotation and further enhancing overall performance. Additionally, the parabolic shape facilitates efficient utilization of space, allowing for compact yet effective integration within laboratory or industrial settings.
 
+•	Implemented Mathematical Model using Electronics: Electronics were integrated to execute the mathematical model derived from Fourier Heat Equations. This allowed for precise monitoring and control of parameters governing the cooling process.
+•	Evaluated Cooling Effectiveness: Experiments were conducted to assess the prototype's ability to cool solvents on a small lab scale. Cooling rates were measured and compared with model predictions to validate performance and identify areas for improvement.
+Achieving these two goals validated our project, that we were heading in the right direction
+Some issues were also encountered.
+•	The prototype was prone to breaking down due to its contact with moisture. This issue is mainly with the liquid coolant water being used, which is conductive and shortcircuits the present electronics. Measures were taken to isolate the electronics components
+
+•	Another issue was the heat sensor not being capable of taking even readings, making us resort to an external infrared sensor.
+
+•	The apparatus was also heavier than expected. Mainly due to the motor used and the cold water filling its inner cavity. To fix this, a lighter motor has to be used. Furthermore, it does not weigh much when it is not filled with water.
 
 
 ### Literature survey
+
+1.	Xi Meng, Li Meng, Yi Gao, Haoran Li, A comprehensive review on the spray cooling system employed to improve the summer thermal environment: Application efficiency, impact factors, and performance improvement, Building and Environment, Volume 217,2022,109065,ISSN 0360-1323
+a.	Efficiency: Spray cooling effectively lowers outdoor temperatures and enhances comfort.
+b.	Factors: Design, water distribution, nozzle type, and environmental conditions impact cooling efficiency.
+c.	Optimization: Adjusting nozzle placement and flow rates, along with smart controls, improves performance.
+d.	Heat Transfer: Techniques like surface modifications enhance heat transfer efficiency.
+e.	Thermal Assessment: New models consider various factors to accurately assess thermal comfort.
+
+2.	Aghaei, M., Safdari, S., Mallah, M., Karimi Sabet, J., Otoukesh, M. (2011). 'The Effect of Cooling Rate of Cooling System on Centrifuge Machine Performance', Journal of Nuclear Science and Technology (JONSAT), 32(1), pp. 1-7
+a.	Study Focus: Experimentally investigates the impact of cooling rate on centrifuge machine performance.
+b.	Cooling Rate Factors: Increased by adjusting temperature variation and volumetric flow rate of inlet water.
+c.	Findings: The cooling rate has a negligible effect on the separative work unit (SWU) and separation factors (α and β) for heads and tails. If the cooling rate falls below a minimum threshold, heat generated by moving machine parts cannot be dissipated, potentially leading to damage.
+
+3.	Manske, K.A. (2000). Performance Optimization of Industrial Refrigeration Systems. Master's Thesis, University of Wisconsin-Madison.
+a.	Study Objective: Models an ammonia vapour compression refrigeration system serving a food storage facility near Milwaukee, WI, aiming to optimize its performance.
+b.	System Components: Includes single-screw and reciprocating compressors, evaporative condenser, liquid overfeed, and direct expansion evaporators.
+c.	Methodology: Validates the model with experimental data, then explores alternative designs and operational techniques for optimal performance.
+d.	Investigated Techniques: 
+i.	Variable frequency or multi-speed motor control on condenser and evaporator fans. 
+ii.	Head pressure and refrigerant temperature control.
+iii.	 Load sharing between compressors.
+e.	Alternative System Designs Examined: Condenser sizing, two-stage compression, load separation, and thermosiphon.
+f.	Predicted Results: Anticipates up to 31% reduction in annual energy usage and 21% reduction in peak electrical demand with implemented optimization techniques and designs.
+
+4.	Hasanpour, E., Fesharakifard, R. Numerical Analysis of Water Sprinkler Cooling System for a Centrifugal Babbitt Lining Machine. Inter Metalcast (2023).
+a.	Conducts a three-dimensional and transient numerical simulation to analyze the effects of various parameters on solidification rate, including mold rotational speed, sprinkler flow rate and angle, and initial temperatures of mold and Babbitt alloy. (Babbit alloys are metal alloys used in bearings)
+b.	Provides insights for enhancing design of water sprinkler cooling systems in centrifugal Babbitt lining machines, potentially enabling transition from manual to automated cooling processes, thus improving efficiency, quality, and safety, especially in underdeveloped countries.
+
 
 ## Materials and Methodology
 
