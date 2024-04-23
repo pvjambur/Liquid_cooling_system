@@ -9,12 +9,8 @@
 
 ![image](https://github.com/pvjambur/Liquid_cooling_system/assets/145439975/8346d861-03d0-4496-aca8-b3879ab5d2db)
 
-### Side view
-
-
-
-
-
+### Electronics interface
+![pic_el_2](https://github.com/pvjambur/Liquid_cooling_system/assets/145439975/f5f0a2fc-99ec-4d0a-a4a0-4c0405132699)
 
 ### The cooling system
 
