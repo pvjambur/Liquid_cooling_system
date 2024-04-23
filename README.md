@@ -2,6 +2,20 @@
 
 ## Introduction to HIMA
 
+### Top view
+![image](https://github.com/pvjambur/Liquid_cooling_system/assets/145439975/adc92939-4631-48f2-b3dd-6c518c6a7a44)
+
+### Front view
+
+![image](https://github.com/pvjambur/Liquid_cooling_system/assets/145439975/8346d861-03d0-4496-aca8-b3879ab5d2db)
+
+### Side view
+
+
+
+
+
+
 ### The cooling system
 
 Optimizing the efficiency of solvent cooling is no small feat. It requires careful consideration of every aspect, especially the shape of the inner container. This seemingly minute detail can have a profound impact on cooling performance and overall effectiveness. That's why our team went above and beyond, meticulously analyzing and deliberating to identify the perfect shape that would maximize surface area and unleash the full potential of heat exchange and cooling kinetics.
@@ -53,13 +67,20 @@ Its innovative design minimizes energy wastage, making it an environmentally fri
 In summary, the cooling apparatus offers a holistic solution for rapidly cooling solvents during chemical and biochemical reactions. It is a valuable tool for research and industrial applications alike.
 The amalgamation of centrifugal force and ice-cold water cooling within our apparatus heralds a new era of efficiency and sustainability in solvent cooling technology. Laboratories and industrial facilities stand to benefit from this. Solvent cooling is transformed into a streamlined, cost-effective, and environmentally conscious process, paving the way for enhanced productivity and progress in the field of chemical synthesis and beyond.
 
+### Applications
 
-
-
-
-
+Our innovative cooling device is not limited to laboratory use. It can be applied in fields and processes. An excellent example of its effectiveness is, in printed circuit board (PCB) experiments, where quick solvent cooling's essential, for speeding up stages. By using our device solvents can be cooled rapidly during PCB experiments reducing time and improving productivity.
+In the domain of organic synthesis, particularly in the oxidative polymerization of aniline to produce Polyaniline, our cooling apparatus emerges as a game-changer. By facilitating the swift reduction of temperature during the reaction, it expedites the formation of high-quality polymers while concurrently reducing the duration of stirring required(SS Pandey, S Annapoorni, BD Malhotra. Macromolecules 1993, 26, 12, 3190–3193). 
+Transitioning to another crucial application, the preparation of Benzene Diazonium Chloride underscores the indispensability of precise temperature control within a narrow range of 273-278 Kelvin(Trans. Faraday Soc., 1940,36, 948-956). Our apparatus rises to the occasion, providing meticulous temperature regulation essential for the synthesis of Benzene Diazonium Chloride. By maintaining the requisite temperature range with unparalleled precision, it ensures the integrity of the reaction and the quality of the resulting product, thereby facilitating seamless and reproducible synthesis protocols.
+Outside of the lab our cooling system has uses, in life. It can quickly cool drinks to the temperature or provide relief from hot summer days. Its versatility and efficiency make it suitable for a range of applications ensuring performance, in various scenarios..
+In essence, our innovative cooling apparatus epitomizes a paradigm shift in cooling technology, revolutionizing processes across industries with its unrivaled speed, precision, and adaptability. From enhancing productivity in laboratory settings to offering relief in daily life, its impact reverberates far and wide, ushering in a new era of efficiency and convenience in temperature control
 
 ### Working Prototype
+
+Crafting an efficient solvent cooler demands meticulous attention to design intricacies, ensuring optimal performance and maximal efficiency. Building upon our previous insights, the selection of appropriate geometries for both the inner and outer structures of the apparatus emerges as a pivotal determinant in achieving superior cooling capabilities.
+
+
+
 
 ### Literature survey
 
