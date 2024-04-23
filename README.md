@@ -71,9 +71,31 @@ Transitioning to another crucial application, the preparation of Benzene Diazoni
 Outside of the lab our cooling system has uses, in life. It can quickly cool drinks to the temperature or provide relief from hot summer days. Its versatility and efficiency make it suitable for a range of applications ensuring performance, in various scenarios..
 In essence, our innovative cooling apparatus epitomizes a paradigm shift in cooling technology, revolutionizing processes across industries with its unrivaled speed, precision, and adaptability. From enhancing productivity in laboratory settings to offering relief in daily life, its impact reverberates far and wide, ushering in a new era of efficiency and convenience in temperature control
 
+### 3D design with SolidWorks
+
+#### Handwritten drawing
+
+![2d_EL](https://github.com/pvjambur/Liquid_cooling_system/assets/145439975/60a353f7-4732-43dc-92ab-9324830f7767)
+
+
+#### SolidWorks 3D model
+
+![WhatsApp Image 2024-02-02 at 05 47 02_3a946aec](https://github.com/pvjambur/Liquid_cooling_system/assets/145439975/e84e1bcc-b3af-4a40-863b-fe4bb828ce36)
+
+
+#### Profile view of SolidWorks
+
+![Screenshot 2024-04-23 153741](https://github.com/pvjambur/Liquid_cooling_system/assets/145439975/2dbc5517-4248-49eb-8b93-01b4a420a4f3)
+
+#### Bill of Materials
+
+![Screenshot 2024-04-23 153812](https://github.com/pvjambur/Liquid_cooling_system/assets/145439975/26668856-c086-44b1-b6e1-53fb2ea9235c)
+
 ### Working Prototype
 
 Crafting an efficient solvent cooler demands meticulous attention to design intricacies, ensuring optimal performance and maximal efficiency. Building upon our previous insights, the selection of appropriate geometries for both the inner and outer structures of the apparatus emerges as a pivotal determinant in achieving superior cooling capabilities.
+
+
 
 
 
