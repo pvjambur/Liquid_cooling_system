@@ -1,4 +1,4 @@
-# Liquid_cooling_system - HIMA
+# Liquid cooling system - HIMA (Heat Interpolation and Management Apparatus)
 
 ## Introduction to HIMA
 
