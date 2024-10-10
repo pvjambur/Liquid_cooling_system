@@ -145,14 +145,13 @@ b.	Provides insights for enhancing design of water sprinkler cooling systems in 
 ## Materials and Methodology
 
 ### Inner container materials
-
+Glass
 ### Heat sink
-
-## Bill of Materials
+Supercooled water
 
 ## Conclusion
-
+Meets all expectations. Design can be improved to reach theoretical maximum
 ## Future Scope
-
+Expanded to large scale
 ## Bibliography
 
